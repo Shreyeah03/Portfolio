@@ -4,7 +4,7 @@ Welcome to my interactive portfolio! This is a showcase of my projects and skill
 
 ## 🚀 Live Demo
 
-Check out the deployed portfolio: [shreyakhacharia.vercel.app](https://shreyakhacharia.vercel.app)
+Check out the deployed portfolio: [shreyakhacharia.vercel.app]((https://portfolio-lh9i.vercel.app))
 
 ## 📋 Projects
 
