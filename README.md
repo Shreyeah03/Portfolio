@@ -66,7 +66,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the p
 
 Feel free to reach out to me:
 - **GitHub**: [@Shreyeah03](https://github.com/Shreyeah03)
-- **Email**: shreya@example.com
+- **Email**: skhacharia305@gmail.com
 - **LinkedIn**: [Shreya Khacharia](https://linkedin.com/in/shreyakhacharia)
 
 ---
